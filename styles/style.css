@@ -1,0 +1,9 @@
+:root {
+  --lato: "Lato", sans-serif;
+  --russo-one: "Russo One", sans-serif;
+}
+
+html,
+body {
+  font-family: var(--lato);
+}
